@@ -16,3 +16,29 @@ This repository demonstrates an end-to-end inventory data analysis project under
   - Conditional formatting
   - PivotCharts
   - Slicers and Timelines for filtering
+
+
+
+
+
+
+## 📜 Repository Structure
+- Sheet1: Original (Hidden)
+- Sheet2: About the project
+- Sheet3: Tasklist
+- Sheet4: Analyze data
+- Sheet5: Transform data
+- Sheet6: Excel tables
+- Sheet7: Dynamic Arrays
+- Sheet8: Pivot Tables
+- Sheet9: Visualization
+
+---
+
+## 🔦 Use cases
+This project is ideal for:
+- Supply Chain analysts optimizing delivery performance
+- Business users looking to automate repetitive Excel tasks
+- Learners interested in mastering Excel for real-world data problems
+
+_"Without data, you're just another person with an opinion." - W. Edwards Deming
