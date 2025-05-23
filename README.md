@@ -4,11 +4,33 @@ This repository demonstrates an end-to-end inventory data analysis project under
 ---
 
 ## 🖊 Key Features & Concepts Covered 
-### 1. ** Excel Tables & Structured References **
-- Converted raw data into Excel tables for better structure, readibility, and dynamic referencing
-- Used structured references for consistency and formula clarity throughout the workbook
+### 1. ** Data analysis using Logical and dynamic functions **
+- IF()/IFS(): Used for basic conditional logic to categorize and flag data based on specific criteria
+- SWITCH(): Simplifies multi-condition logic by replacing nested 'IF' statement with a cleaner, more readable approach
+- LET(): Introduces named variables inside formulas for better performance and clarity
+- LAMBDA(): Creates custom, reusable function without VBA. Helps encapsulate logic for repeatable calculations
+- RANDBETWEEN(): Generates sample datasets by producing random integer values within a defined range
 
-### 2. ** Dynamic Arrays **
+### 2. ** Data transormation using Lookup, Text, String and Reference functions **
+- CONCAT()/TEXTJOIN(): Combine data across multiple cells into a single string
+- TRIM(): Remove extra spaces from text (useful for cleaning imported or copied data)
+- SUBSTITUTE(): Replace specific characters or words within strings
+- LEFT()/RIGHT(): Extract fixed-length substrings from start or end of a value
+- TEXT(): Format numeric values into readable text
+- VLOOKUP(): Retrieve data from a table vertically based on a matching key
+- HLOOKUP(): Similar to VLOOKUP, but works across rows
+- MATCH(): Return the relative position of a value in a row or column
+- INDEX(): Return the value of a cell in a specified row or column, often combined with MATCH()
+### 2.1. ** Data transformation using Power Query editor **
+- Launch PowerQuery Editor from Data tab in Excel
+- Load the data from existing table/range
+- Group and aggregate the values as mentioned in the tasklist
+
+### 3. ** Excel Tables & Structured references **
+- Converted raw data into Excel Tables for better structure, flexibility, and dynamic referencing
+- Used structred references for consistency and forumla clarity throughout the workbook
+
+### 4. ** Dynamic Arrays **
 - Used dynamic array functions like FILTER(), SORT(), UNIQUE(), SEQUENCE() to create flexible and formula-driven reports
 
 ### 3. ** Data Visualization **
