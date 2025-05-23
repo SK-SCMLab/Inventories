@@ -23,6 +23,7 @@ This repository demonstrates an end-to-end inventory data analysis project under
 
 
 ## 📜 Repository Structure
+Inventories_dataset.xlsx
 - Sheet1: Original (Hidden)
 - Sheet2: About the project
 - Sheet3: Tasklist
