@@ -31,7 +31,10 @@ This repository demonstrates an end-to-end inventory data analysis project under
 - Used structred references for consistency and forumla clarity throughout the workbook
 
 ### 4. ** Dynamic Arrays **
-- Used dynamic array functions like FILTER(), SORT(), UNIQUE(), SEQUENCE() to create flexible and formula-driven reports
+- FILTER(): Apply row filters in Power Query using custom logic
+- SORT(): Sort row data by one or more columns using ascending/descending order; nested sorting
+- UNIQUE(): To extract distinct values from a column or entire table
+- SEQUENCE(): To generate custom sequences for simulations or lookups
 
 ### 3. ** Data Visualization **
 - Created clean and interactive dashboards using:
@@ -46,7 +49,7 @@ This repository demonstrates an end-to-end inventory data analysis project under
 
 ## 📜 Repository Structure
 Inventories_dataset.xlsx
-- Sheet1: Original (Hidden)
+- Sheet1: Original (Hidden & Protected)
 - Sheet2: About the project
 - Sheet3: Tasklist
 - Sheet4: Analyze data
