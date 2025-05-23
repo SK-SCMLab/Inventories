@@ -1,4 +1,4 @@
-## 🧺 Inventory Data Analysis using Microsoft Excel 
+## 🧺 Inventory Data Analysis using Microsoft Excel (Fundamental)
 This repository demonstrates an end-to-end inventory data analysis project undertaking a sample steel manufacturing data using Advanced Excel techniques. It showcases how Excel can be used not just as a spreadsheet tool, but as a powerful platform for structured data transformation, analysis, and visualization-tailored to inventory management. 
 
 ---
@@ -40,5 +40,12 @@ This project is ideal for:
 - Supply Chain analysts optimizing delivery performance
 - Business users looking to automate repetitive Excel tasks
 - Learners interested in mastering Excel for real-world data problems
+
+---
+## 📍 Requirements
+- Microsoft Excel 2016 or later (Dynamic Arrays and Power Query support)
+- Basic understanding of inventory concepts (OTIF, Gross Profit)
+
+---
 
 _"Without data, you're just another person with an opinion." - W. Edwards Deming
