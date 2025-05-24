@@ -45,7 +45,7 @@ This repository demonstrates an end-to-end inventory data analysis project under
 - Value and label filters for focused analysis
 
 ## 📜 Repository Structure
-Inventories_dataset.xlsx
+Inventories_dataset_analysis.xlsx
 - Sheet1: Original (Hidden & Protected)
 - Sheet2: About the project
 - Sheet3: Tasklist
