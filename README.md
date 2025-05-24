@@ -1,5 +1,5 @@
 ## 🧺 Inventory Data Analysis using Microsoft Excel (Fundamental)
-This repository demonstrates an end-to-end inventory data analysis project undertaking a sample steel manufacturing data using Advanced Excel techniques. It showcases how Excel can be used not just as a spreadsheet tool, but as a powerful platform for structured data transformation, analysis, and visualization-tailored to inventory management. 
+This repository demonstrates an end-to-end inventory data analysis project undertaking a sample steel manufacturing data using Advanced Excel techniques. It showcases how Excel can be used not just as a spreadsheet tool, but as a powerful platform for structured data transformation, and analysis. 
 
 ---
 
@@ -35,17 +35,14 @@ This repository demonstrates an end-to-end inventory data analysis project under
 - SORT(): Sort row data by one or more columns using ascending/descending order; nested sorting
 - UNIQUE(): To extract distinct values from a column or entire table
 - SEQUENCE(): To generate custom sequences for simulations or lookups
+- XLOOKUP(): To retrive multiple related fields from a single lookup key
 
-### 3. ** Data Visualization **
-- Created clean and interactive dashboards using:
-  - Conditional formatting
-  - PivotCharts
-  - Slicers and Timelines for filtering
-
-
-
-
-
+### 5. ** Pivot Tables **
+- Custom calculations using calculated fields
+- Grouping by date (month, quarter, year)
+- Report filters
+- Slicers for easy navigation
+- Value and label filters for focused analysis
 
 ## 📜 Repository Structure
 Inventories_dataset.xlsx
