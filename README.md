@@ -1,4 +1,4 @@
-## 🧺 Inventory Data Analysis using Microsoft Excel (Fundamental)
+# 🧺 Inventory Data Analysis using Microsoft Excel (Fundamental)
 This repository demonstrates an end-to-end inventory data analysis project undertaking a sample steel manufacturing data using Advanced Excel techniques. It showcases how Excel can be used not just as a spreadsheet tool, but as a powerful platform for structured data transformation, and analysis. 
 
 ---
